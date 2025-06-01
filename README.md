@@ -81,20 +81,18 @@ To explore how different prompting techniques influence the quality, style, and 
 * Observation:
   The video had emotional depth, stunning cinematography, and strong branding—perfect for lifestyle or brand commercials.
 
-
-
 ## Suggested AI Tools for Video Generation
 
 * Runway Gen-2 – Text-to-video, great for quick prototypes
 * Pika Labs – Stylized animations and cinematic motion
 * Kaiber / Sora (OpenAI) – High-end story-driven visual generation (if available)
 
-
+## Google Drive:
+https://drive.google.com/drive/folders/13GojLxKHyUDW2JOK6LRFzTZeH8NO6JRT?usp=sharing
 
 ## Result:
 
 This experiment showed that:
-
 * Simple prompts are ideal for short, clear ads.
 * Detailed prompts enable stronger storytelling and product engagement.
 * Stylistic prompts bring emotional resonance and premium brand feel.
