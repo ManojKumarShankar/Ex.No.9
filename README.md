@@ -1,7 +1,7 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
-# Date:
-# Reg. No.:
+# Date:9/05/25
+# Reg. No.:212222040097
 
 # Aim:
 To demonstrate the ability of text-to-Video generation tools to reproduce an existing Video by crafting precise prompts. The goal is to identify key elements within the Video and use these details to generate an Video as close as possible to the original.
@@ -42,6 +42,8 @@ Tools/LLMs for Video Generation:
 4.	Use the Selected Tool: Choose an Video generation model (e.g., DALL·E, Stable Diffusion, or MidJourney) and input the refined prompt.
 5.	Iterate and Adjust: If the initial result isn't quite right, adjust the prompt further based on the differences observed between the generated and original Video.
 6.	Save and Document: Save the generated Video and document your prompt alongside any observations on how the output compares to the original.
+7.	## Google Drive:
+https://drive.google.com/drive/folders/1h6A_w6eNPifBr-n5XdUeRmZPRNNVieS0?usp=drive_link
 
 # Deliverables:
 1.	The Original Video: Provided Video for reference.
