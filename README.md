@@ -6,16 +6,11 @@ To explore how different prompting techniques influence the quality, style, and 
 
 ## Algorithm / Procedure:
 
-1. Select three branded products to advertise:
 
-   * Nike Running Shoes
-   * Fitbit Smartwatch
-   * Starbucks Premium Coffee
 
-2. Apply three different prompting techniques:
+2. Apply two different prompting techniques:
 
    * Simple Prompt
-   * Detailed Prompt
    * Stylistic Prompt
 
 3. Generate videos using AI tools like **Runway Gen-2**, **Pika Labs**, or **Sora**.
@@ -34,16 +29,7 @@ To explore how different prompting techniques influence the quality, style, and 
 * Product: Nike Running Shoes
 
 * Prompt:
-  *“Create a short advertisement for Nike running shoes.”*
-
-* Purpose:
-  Generate a basic brand-focused video with direct product visuals.
-
-* Expected Output:
-  A person running outdoors wearing **Nike shoes**, with brand logos and energetic background music. Text overlay: *“Push Your Pace with Nike.”*
-
-* Observation:
-  The video was product-centric but lacked story or emotion. Works well for short social media ads.
+  *“Create a short advertisement for electric car.”*
 
 
 
@@ -94,7 +80,6 @@ https://drive.google.com/drive/folders/13GojLxKHyUDW2JOK6LRFzTZeH8NO6JRT?usp=sha
 
 This experiment showed that:
 * Simple prompts are ideal for short, clear ads.
-* Detailed prompts enable stronger storytelling and product engagement.
 * Stylistic prompts bring emotional resonance and premium brand feel.
 
 Prompt design significantly influences how AI tools represent **brand identity, emotion, and visual appeal** in advertisements.
