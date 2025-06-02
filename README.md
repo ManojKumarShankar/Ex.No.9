@@ -1,64 +1,68 @@
+# Experiment 9: Exploring Prompting Techniques for Video Generation with Product Advertisements (Brand-Specific)
 
-name:manoj kumar 
-reg no:212222040097
-date:09/05/25
-Experiment 9: Exploring Prompting Techniques for Video Generation with Product Advertisements (Brand-Specific)
-Aim:
+## Aim:
+
 To explore how different prompting techniques influence the quality, style, and storytelling of AI-generated product advertisements, using three specific real-world brands.
 
-Algorithm / Procedure:
-Select three branded products to advertise:
+## Algorithm / Procedure:
 
-simple car roming in road
-face serum add
-Apply two different prompting techniques:
+2. Apply three different prompting techniques:
 
-Simple Prompt
-Detailed Prompt
-Stylistic Prompt
-Generate videos using AI tools like Runway Gen-2, Pika Labs, or Sora.
+   * Simple Prompt
+   * Detailed Prompt
+   * Stylistic Prompt
 
-Analyze outputs for:
+3. Generate videos using AI tools like **Runway Gen-2**, **Pika Labs**, or **Sora**.
 
-Visual quality
-Brand clarity
-Emotional engagement
-Product focus
-Prompting Techniques & Branded Prompt Examples
-🔹 1. Simple Prompting
-Product: electric car
+4. Analyze outputs for:
 
-Prompt: “A sleek electric car driving through a futuristic cityscape at night, neon lights reflecting off the wet pavement.”
+   * Visual quality
+   * Brand clarity
+   * Emotional engagement
+   * Product focus
 
-Purpose: Generate a basic brand-focused video with direct product visuals.
+## Prompting Techniques & Branded Prompt Examples
 
-Expected Output: “A sleek electric car driving through a futuristic cityscape at night, neon lights reflecting off the wet pavement.”
+### 🔹 1. Simple Prompting
 
-Observation: The video was product-centric but lacked story or emotion. Works well for short social media ads.
+* Product: electric car
+
+* Prompt:
+  *“short advertisement for electric car”*
+
+* Purpose:
+  Generate a basic brand-focused video with direct product visuals.
+
+* Expected Output:
+  A person running outdoors wearing **Nike shoes**, with brand logos and energetic background music. Text overlay: *“Push Your Pace with Nike.”*
+
+* Observation:
+  The video was product-centric but lacked story or emotion. Works well for short social media ads.
+
+### 🔹 2. Stylistic Prompting
+
+* Product: skin care product
+
+* Prompt:
+  “A glass bottle of premium organic face serum placed on a polished white marble slab, surrounded by dewdrops and fresh green leaves. The camera begins with a macro close-up of a water droplet sliding down the side of the bottle, revealing its smooth reflective surface. Soft golden sunlight streams through a sheer curtain in the background, casting warm highlights and gentle shadows. Subtle mist floats in the air, creating a fresh, morning atmosphere. The shot transitions to a top-down view with soft-focus bokeh lights twinkling around the bottle. Ambient, elegant piano music plays gently in the background. The overall mood is serene, clean, luxurious, and rejuvenating. Style is cinematic with shallow depth of field, smooth camera movement, and high contrast between glossy textures and matte natural surroundings'”
 
 
-🔹 3. Stylistic Prompting
-Product: face serum
 
-Prompt: “A sleek glass bottle of organic face serum on a polished marble surface, water droplets glistening on the glass, golden hour lighting through sheer curtains, slow cinematic zoom, soft focus with subtle lens flare, classical piano music in the background.”
+## Suggested AI Tools for Video Generation
 
-Purpose: Use visual storytelling and brand emotion to portray luxury and comfort.
+* Runway Gen-2 – Text-to-video, great for quick prototypes
+* Pika Labs – Stylized animations and cinematic motion
+* Kaiber / Sora (OpenAI) – High-end story-driven visual generation (if available)
 
-Expected Output: A warm, rich-toned video with high-quality visuals, ideal for a TV or digital campaign.
+## Google Drive:
+https://drive.google.com/drive/folders/13GojLxKHyUDW2JOK6LRFzTZeH8NO6JRT?usp=sharing
 
-Observation: The video had emotional depth, stunning cinematography, and strong branding—perfect for lifestyle or brand commercials.
+## Result:
 
-Suggested AI Tools for Video Generation
-Runway Gen-2 – Text-to-video, great for quick prototypes
-Pika Labs – Stylized animations and cinematic motion
-Kaiber / Sora (OpenAI) – High-end story-driven visual generation (if available)
-Google Drive:
-https://drive.google.com/drive/folders/1h6A_w6eNPifBr-n5XdUeRmZPRNNVieS0?usp=drive_link
-
-Result:
 This experiment showed that:
+* Simple prompts are ideal for short, clear ads.
+* Stylistic prompts bring emotional resonance and premium brand feel.
 
-Simple prompts are ideal for short, clear ads.
-Detailed prompts enable stronger storytelling and product engagement.
-Stylistic prompts bring emotional resonance and premium brand feel.
-Prompt design significantly influences how AI tools represent brand identity, emotion, and visual appeal in advertisements.
+Prompt design significantly influences how AI tools represent **brand identity, emotion, and visual appeal** in advertisements.
+
+
